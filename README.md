@@ -39,3 +39,6 @@ features, and device compatibility for all major platforms.
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
+
+---
+*Last updated: 2026-06-19*
